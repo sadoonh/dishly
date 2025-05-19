@@ -2,5 +2,4 @@ pandas
 matplotlib
 numpy
 plotly
-plotly.express
-plotly.graph_objects 
+streamlit
