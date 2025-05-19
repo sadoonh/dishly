@@ -1,0 +1,263 @@
+/* Import Roboto font */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap');
+
+/* Set background color for the entire app */
+.stApp {
+    background-color: #2E353B !important;
+}
+
+/* Set background color for the main content area */
+.main {
+    background-color: #2E353B !important;
+}
+
+/* Ensure the sidebar and other elements match the background */
+section[data-testid="stSidebar"] {
+    background-color: #2E353B !important;
+}
+
+/* Apply background to the main app container */
+html, body {
+    background-color: #2E353B !important;
+}
+
+/* Apply Roboto font globally */
+html, body, [class*="css"] {
+    font-family: 'Roboto', sans-serif;
+}
+
+.stApp {
+    font-family: 'Roboto', sans-serif;
+}
+
+/* Override all text elements */
+.stMarkdown, .stText, .stSelectbox, .stTitle, h1, h2, h3, h4, h5, h6, p, div, span, li {
+    font-family: 'Roboto', sans-serif !important;
+}
+
+/* Make the selectbox dropdown 1/4th the size */
+/* div[data-testid="stSelectbox"] > div > div {
+    width: 100% !important;
+    max-width: 300px !important;
+    color :#FFFFFF;
+} */
+
+/* Increase font size for selectbox label */
+div[data-testid="stSelectbox"] label {
+    font-size: 24px !important;
+    font-weight: bold !important;
+    color: #FFFFFF !important;
+    font-family: 'Roboto', sans-serif !important;
+}
+
+/* Alternative targeting for selectbox label */
+.stSelectbox label {
+    font-size: 26px !important;
+    font-weight: bold !important;
+    color: #FFFFFF !important;
+    font-family: 'Roboto', sans-serif !important;
+}
+
+/* Style expander headers - comprehensive targeting */
+div[data-testid="stExpander"] summary {
+    font-family: 'Roboto', sans-serif !important;
+    font-size: 26px !important;
+    font-weight: bold !important;
+    color: #EEA179 !important;
+}
+
+div[data-testid="stExpander"] summary p {
+    font-family: 'Roboto', sans-serif !important;
+    font-size: 26px !important;
+    font-weight: bold !important;
+    color: #EEA179 !important;
+    margin: 0 !important;
+}
+
+/* Alternative targeting for different Streamlit versions */
+div[data-testid="stExpander"] > details > summary {
+    font-family: 'Roboto', sans-serif !important;
+    font-size: 26px !important;
+    font-weight: bold !important;
+    color: #EEA179 !important;
+}
+
+div[data-testid="stExpander"] > details > summary > div {
+    font-family: 'Roboto', sans-serif !important;
+    font-size: 26px !important;
+    font-weight: bold !important;
+    color: #EEA179 !important;
+}
+
+div[data-testid="stExpander"] > details > summary > div > p {
+    font-family: 'Roboto', sans-serif !important;
+    font-size: 26px !important;
+    font-weight: bold !important;
+    color: #EEA179 !important;
+}
+
+/* Streamlit's expander header class */
+.streamlit-expanderHeader {
+    font-family: 'Roboto', sans-serif !important;
+    font-size: 26px !important;
+    font-weight: bold !important;
+    color: #EEA179 !important;
+}
+
+/* Additional targeting for expander headers */
+div[data-testid="stExpander"] > div:first-child {
+    font-size: 26px !important;
+    font-weight: bold !important;
+    color: #EEA179 !important;
+}
+
+/* More specific header targeting */
+div[data-testid="stExpander"] > div:first-child > div > p {
+    font-size: 26px !important;
+    font-weight: bold !important;
+    color: #EEA179 !important;
+}
+
+/* Even more specific targeting */
+div[data-testid="stExpander"] [role="button"] {
+    font-family: 'Roboto', sans-serif !important;
+    font-size: 26px !important;
+    font-weight: bold !important;
+    color: #EEA179 !important;
+}
+
+div[data-testid="stExpander"] [role="button"] p {
+    font-family: 'Roboto', sans-serif !important;
+    font-size: 26px !important;
+    font-weight: bold !important;
+    color: #EEA179 !important;
+}
+
+/* Style expander content - exclude the header */
+div[data-testid="stExpander"] > details > div,
+div[data-testid="stExpander"] > div:last-child,
+div[data-testid="stExpander"] > div:nth-child(2) {
+    font-size: 18px !important;
+    color: #D57D83 !important;
+}
+
+/* Target expander content more specifically - exclude headers */
+div[data-testid="stExpander"] details > div .stMarkdown {
+    font-size: 18px !important;
+    color: #D57D83 !important;
+}
+
+/* Style expander content text - exclude headers */
+/* div[data-testid="stExpander"] details > div p,
+div[data-testid="stExpander"] details > div li,
+div[data-testid="stExpander"] details > div div {
+    font-size: 18px !important;
+    color: #FFFFFF !important;
+} */
+
+/* App header styling */
+.stApp > header {
+    background-color: transparent;
+}
+
+/* Remove all top padding and margin from main content area and reduce by half */
+.stApp {
+    padding-top: 0 !important;
+    margin-top: 0 !important;
+    background-color: #2E353B !important;
+}
+
+.stApp > div:first-child {
+    padding-top: 0.5rem !important; /* Reduced from default ~2rem to 0.5rem (half) */
+    margin-top: 0 !important;
+}
+
+/* Remove padding from main container - target the content area specifically */
+.main .block-container {
+    padding-top: 0.5rem !important; /* Reduced from default ~2rem to 0.5rem (half) */
+    margin-top: 0 !important;
+    max-width: 100% !important;
+}
+
+/* Remove top margin from the main content block */
+div[data-testid="block-container"] {
+    padding-top: 0.5rem !important; /* Reduced from default ~2rem to 0.5rem (half) */
+    margin-top: 0 !important;
+}
+
+/* Target the main element directly */
+main.main {
+    padding-top: 0.5rem !important; /* Reduced from default ~2rem to 0.5rem (half) */
+    margin-top: 0 !important;
+}
+
+/* Remove spacing from the first column (where your logo is) and reduce margin by half */
+div[data-testid="column"]:first-child {
+    padding-top: 0 !important;
+    margin-top: 0 !important;
+}
+
+/* Remove spacing from all columns at the top */
+div[data-testid="column"] {
+    padding-top: 0 !important;
+}
+
+/* Alternative targeting for different Streamlit versions */
+div[data-testid="stAppViewContainer"] {
+    padding-top: 0.5rem !important; /* Reduced from default ~2rem to 0.5rem (half) */
+    margin-top: 0 !important;
+}
+
+div[data-testid="stAppViewContainer"] > div {
+    padding-top: 0 !important;
+    margin-top: 0 !important;
+}
+
+/* Remove top spacing from the main content area */
+section[data-testid="stSidebar"] ~ div {
+    padding-top: 0 !important;
+    margin-top: 0 !important;
+}
+
+/* Ensure the whole app starts closer to the top */
+.stApp > div {
+    padding-top: 0 !important;
+    margin-top: 0 !important;
+}
+
+/* Custom styling for your styled fields within expanders */
+div[data-testid="stExpander"] .styled-field {
+    margin-bottom: 15px;
+    font-family: 'Roboto', sans-serif;
+}
+
+div[data-testid="stExpander"] .styled-field-label {
+    font-size: 20px;
+    font-weight: bold;
+    color: #EEA179;
+    margin-bottom: 5px;
+    font-family: 'Roboto', sans-serif;
+}
+
+/* div[data-testid="stExpander"] .styled-field-value {
+    font-size: 18px;
+    color: #FFFFFF !important;
+    margin-left: 15px;
+    font-family: 'Roboto', sans-serif;
+} */
+
+/* Style lists within expanders - exclude headers */
+/* div[data-testid="stExpander"] details > div ul,
+div[data-testid="stExpander"] details > div ol {
+    font-size: 18px;
+    color: #FFFFFF ;
+    margin-left: 20px;
+    font-family: 'Roboto', sans-serif; */
+}
+
+div[data-testid="stExpander"] details > div ul li,
+div[data-testid="stExpander"] details > div ol li {
+    margin-bottom: 8px;
+    font-family: 'Roboto', sans-serif;
+    color: #FFFFFF;
+}

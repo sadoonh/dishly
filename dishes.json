@@ -1,0 +1,1765 @@
+[
+  {
+    "dish_name": "Lasagna Bolognese",
+    "cuisine_type": "Italian",
+    "calories": 890,
+    "macros": {
+      "protein_g": 40,
+      "carbs_g": 70,
+      "fat_g": 50
+    },
+    "ingredients": [
+      "Ground Beef",
+      "Lasagna Pasta Sheets",
+      "Milk",
+      "Butter",
+      "Flour",
+      "Nutmeg",
+      "Canned Tomatoes",
+      "Onion",
+      "Carrot",
+      "Celery",
+      "Garlic",
+      "Parmesan Cheese",
+      "Ricotta Cheese",
+      "Mozzarella Cheese",
+      "Olive Oil",
+      "Pepper"
+    ],
+    "cost": "$$",
+    "healthy_flag": false,
+    "cooking_instructions": [
+      "Prepare the Bolognese sauce: Sauté chopped Onion, Carrot, Celery, and Garlic in Olive Oil. Brown the Ground Beef. Add Canned Tomatoes, season with Pepper, and simmer until thickened.",
+      "Prepare the Béchamel sauce: Melt Butter, whisk in Flour, then gradually add Milk, whisking constantly until the sauce thickens. Season with Nutmeg and Pepper.",
+      "Cook Lasagna Pasta Sheets according to package directions if they are not no-boil type. Alternatively, use no-boil sheets.",
+      "Assemble the lasagna: In a baking dish, spread a layer of Bolognese sauce, followed by a layer of pasta sheets, then a layer of Béchamel sauce, dollops of Ricotta Cheese, and a sprinkle of Mozzarella Cheese.",
+      "Repeat layers until all ingredients are used, finishing with a layer of Béchamel and Mozzarella Cheese.",
+      "Sprinkle Parmesan Cheese on top.",
+      "Bake in a preheated oven until golden brown and bubbly."
+    ]
+  },
+  {
+    "dish_name": "Margherita Pizza",
+    "cuisine_type": "Italian",
+    "calories": 750,
+    "macros": {
+      "protein_g": 30,
+      "carbs_g": 90,
+      "fat_g": 30
+    },
+    "ingredients": [
+      "Pizza Dough",
+      "Canned Tomatoes",
+      "Fresh Mozzarella Cheese",
+      "Fresh Basil",
+      "Olive Oil",
+      "Pepper"
+    ],
+    "cost": "$$",
+    "healthy_flag": false,
+    "cooking_instructions": [
+      "Preheat your oven to a high temperature (e.g., 450-500°F or 230-260°C), preferably with a pizza stone or baking steel inside.",
+      "Stretch or roll out the Pizza Dough to your desired thickness and shape on a lightly floured surface.",
+      "Lightly crush or blend Canned Tomatoes to make a simple sauce. Spread a thin layer over the pizza dough, leaving a small border for the crust.",
+      "Drizzle a little Olive Oil over the sauce and season with Pepper.",
+      "Arrange slices or pieces of Fresh Mozzarella Cheese evenly over the sauce.",
+      "Carefully transfer the pizza to the preheated oven (onto the hot stone/steel or a baking sheet).",
+      "Bake for 10-15 minutes, or until the crust is golden brown and the cheese is melted and bubbly.",
+      "Remove from oven and garnish generously with Fresh Basil leaves before slicing and serving."
+    ]
+  },
+  {
+    "dish_name": "Chicken Alfredo",
+    "cuisine_type": "Italian",
+    "calories": 980,
+    "macros": {
+      "protein_g": 45,
+      "carbs_g": 65,
+      "fat_g": 60
+    },
+    "ingredients": [
+      "Fettuccine Pasta",
+      "Chicken Breast",
+      "Heavy Cream",
+      "Parmesan Cheese",
+      "Butter",
+      "Garlic",
+      "Black Pepper",
+      "Nutmeg"
+    ],
+    "cost": "$$",
+    "healthy_flag": false,
+    "cooking_instructions": [
+      "Cook Fettuccine Pasta according to package directions until al dente. Drain, reserving about a cup of pasta water.",
+      "Season Chicken Breast with Black Pepper. Pan-sear or grill the chicken in a little Butter or olive oil until cooked through. Let it rest, then slice or dice.",
+      "In a large skillet or pan, melt Butter over medium heat. Add minced Garlic and cook until fragrant (about 1 minute).",
+      "Pour in Heavy Cream and bring to a gentle simmer. Cook for a few minutes until it slightly thickens.",
+      "Reduce heat and stir in grated Parmesan Cheese until melted and the sauce is smooth. Season with a pinch of Nutmeg and Black Pepper to taste.",
+      "Add the cooked fettuccine and chicken to the sauce. Toss to coat everything evenly. If the sauce is too thick, add a splash of the reserved pasta water.",
+      "Serve immediately, garnished with extra Parmesan Cheese and Black Pepper if desired."
+    ]
+  },
+  {
+    "dish_name": "Risotto ai Funghi",
+    "cuisine_type": "Italian",
+    "calories": 550,
+    "macros": {
+      "protein_g": 18,
+      "carbs_g": 75,
+      "fat_g": 20
+    },
+    "ingredients": [
+      "Arborio Rice",
+      "Mushrooms",
+      "Vegetable Broth",
+      "Parmesan Cheese",
+      "White Wine",
+      "Onion",
+      "Olive Oil",
+      "Parsley",
+      "Pepper"
+    ],
+    "cost": "$$",
+    "healthy_flag": true,
+    "cooking_instructions": [
+      "Warm Vegetable Broth in a saucepan and keep it at a low simmer.",
+      "Heat Olive Oil in a large, heavy-bottomed pot or Dutch oven over medium heat. Add chopped Onion and cook until softened.",
+      "Add sliced or chopped Mushrooms and cook until they release their liquid and start to brown.",
+      "Add Arborio Rice to the pot and toast for 1-2 minutes, stirring constantly, until the edges of the grains become translucent.",
+      "Pour in White Wine and stir until it's fully absorbed.",
+      "Add a ladleful of warm broth to the rice, stirring continuously until the liquid is absorbed. Continue adding broth, one ladleful at a time, waiting for each addition to be absorbed before adding the next. This process should take about 18-20 minutes, until the rice is creamy and al dente.",
+      "Remove from heat. Stir in grated Parmesan Cheese and chopped Fresh Parsley. Season with Pepper to taste.",
+      "Serve immediately."
+    ]
+  },
+  {
+    "dish_name": "Chicken Caprese",
+    "cuisine_type": "Italian",
+    "calories": 580,
+    "macros": {
+      "protein_g": 50,
+      "carbs_g": 25,
+      "fat_g": 30
+    },
+    "ingredients": [
+      "Chicken Breast",
+      "Fresh Mozzarella",
+      "Tomatoes",
+      "Fresh Basil",
+      "Balsamic Glaze",
+      "Olive Oil",
+      "Pepper"
+    ],
+    "cost": "$$",
+    "healthy_flag": true,
+    "cooking_instructions": [
+      "Season Chicken Breast with Pepper (and salt, if desired). Pan-sear or grill the chicken in a little Olive Oil until cooked through and golden brown. Let it rest for a few minutes, then slice.",
+      "Slice Fresh Mozzarella and Tomatoes into rounds of similar thickness.",
+      "Arrange the sliced chicken, mozzarella, and tomatoes on a platter, alternating them or layering as desired.",
+      "Tuck Fresh Basil leaves among the slices or sprinkle chopped basil over the top.",
+      "Drizzle generously with Balsamic Glaze and a good quality Olive Oil.",
+      "Season with additional Black Pepper to taste.",
+      "Serve immediately."
+    ]
+  },
+  {
+    "dish_name": "Minestrone Soup",
+    "cuisine_type": "Italian",
+    "calories": 350,
+    "macros": {
+      "protein_g": 15,
+      "carbs_g": 50,
+      "fat_g": 10
+    },
+    "ingredients": [
+      "Carrots",
+      "Celery",
+      "Zucchini",
+      "Potatoes",
+      "Green Beans",
+      "Peas",
+      "Kidney Beans",
+      "Cannellini Beans",
+      "Small Pasta",
+      "Tomato Broth",
+      "Diced Tomatoes",
+      "Oregano",
+      "Basil",
+      "Parsley",
+      "Olive Oil",
+      "Onion",
+      "Garlic",
+      "Parmesan Rind",
+      "Pepper"
+    ],
+    "cost": "$",
+    "healthy_flag": true,
+    "cooking_instructions": [
+      "Heat Olive Oil in a large pot or Dutch oven over medium heat. Add chopped Onion, Carrots, and Celery. Cook until softened, about 5-7 minutes.",
+      "Add minced Garlic and cook for another minute until fragrant.",
+      "Stir in diced Potatoes, Zucchini, and Green Beans. Cook for a few more minutes.",
+      "Pour in Tomato Broth and Diced Tomatoes. Add Kidney Beans (rinsed and drained), Cannellini Beans (rinsed and drained), dried Oregano, dried Basil (or fresh if preferred), and the Parmesan Rind (if using).",
+      "Bring the soup to a boil, then reduce heat, cover, and simmer for about 20-30 minutes, or until all vegetables are tender.",
+      "Stir in Small Pasta and Peas. Cook according to pasta package directions, until the pasta is al dente.",
+      "Remove the Parmesan Rind before serving. Stir in chopped Fresh Parsley.",
+      "Season with Pepper to taste. Serve hot."
+    ]
+  },
+  {
+    "dish_name": "Aloo Gobi",
+    "cuisine_type": "Indian",
+    "calories": 400,
+    "macros": {
+      "protein_g": 10,
+      "carbs_g": 55,
+      "fat_g": 15
+    },
+    "ingredients": [
+      "Potatoes",
+      "Cauliflower",
+      "Onions",
+      "Tomatoes",
+      "Ginger",
+      "Garlic",
+      "Turmeric Powder",
+      "Cumin Seeds",
+      "Coriander Powder",
+      "Garam Masala",
+      "Green Chilies",
+      "Cilantro",
+      "Oil",
+      "Rice"
+    ],
+    "cost": "$",
+    "healthy_flag": false,
+    "cooking_instructions": [
+      "Cook Rice according to package directions and set aside.",
+      "Peel and dice Potatoes. Cut Cauliflower into florets. Chop Onions, Tomatoes, Ginger, Garlic, and Green Chilies.",
+      "Heat Oil in a large pan or kadai over medium heat. Add Cumin Seeds and let them splutter.",
+      "Add chopped Onions and sauté until golden brown.",
+      "Add minced Ginger, Garlic, and Green Chilies. Sauté for a minute until fragrant.",
+      "Add chopped Tomatoes and cook until they soften and oil starts to separate.",
+      "Stir in Turmeric Powder, Coriander Powder, and a pinch of salt. Cook for a minute.",
+      "Add diced Potatoes and Cauliflower florets. Mix well to coat with the spices.",
+      "Add about 1/4 to 1/2 cup of water, cover the pan, and cook on low-medium heat for 15-20 minutes, or until potatoes and cauliflower are tender. Stir occasionally to prevent sticking.",
+      "Once vegetables are cooked, stir in Garam Masala.",
+      "Garnish with fresh chopped Cilantro.",
+      "Serve hot with cooked Rice."
+    ]
+  },
+  {
+    "dish_name": "Caesar Salad with Grilled Chicken",
+    "cuisine_type": "American",
+    "calories": 550,
+    "macros": {
+      "protein_g": 50,
+      "carbs_g": 20,
+      "fat_g": 30
+    },
+    "ingredients": [
+      "Romaine Lettuce",
+      "Chicken Breast",
+      "Mayonnaise",
+      "Dijon Mustard",
+      "Garlic",
+      "Lemon Juice",
+      "Parmesan Cheese",
+      "Anchovy Paste",
+      "Worcestershire Sauce",
+      "Croutons",
+      "Black Pepper"
+    ],
+    "cost": "$$",
+    "healthy_flag": true,
+    "cooking_instructions": [
+      "Season Chicken Breast with Black Pepper (and salt if desired). Grill or pan-sear until cooked through. Let rest, then slice.",
+      "Prepare the Caesar dressing: In a bowl, whisk together Mayonnaise, Dijon Mustard, minced Garlic, Lemon Juice, Anchovy Paste (if using), Worcestershire Sauce, and grated Parmesan Cheese. Season with Black Pepper to taste.",
+      "Wash and chop Romaine Lettuce into bite-sized pieces.",
+      "In a large salad bowl, add the romaine lettuce. Pour the dressing over the lettuce and toss gently to coat evenly.",
+      "Add Croutons and the sliced grilled chicken to the salad.",
+      "Sprinkle with additional Parmesan Cheese if desired.",
+      "Serve immediately."
+    ]
+  },
+  {
+    "dish_name": "Meatloaf with Gravy and Mashed Potatoes",
+    "cuisine_type": "American",
+    "calories": 780,
+    "macros": {
+      "protein_g": 40,
+      "carbs_g": 65,
+      "fat_g": 40
+    },
+    "ingredients": [
+      "Ground Beef",
+      "Breadcrumbs",
+      "Egg",
+      "Onion",
+      "Tomato Paste",
+      "Beef Broth",
+      "Flour",
+      "Butter",
+      "Potatoes",
+      "Milk",
+      "Butter",
+      "Green Beans",
+      "Pepper",
+      "Garlic Powder",
+      "Onion Powder",
+      "Worcestershire Sauce"
+    ],
+    "cost": "$$",
+    "healthy_flag": false,
+    "cooking_instructions": [
+      "Prepare the meatloaf: Preheat oven. In a large bowl, combine Ground Beef, Breadcrumbs, beaten Egg, finely chopped Onion, Tomato Paste, a splash of Worcestershire Sauce, Garlic Powder, Onion Powder, and Pepper. Mix gently but thoroughly. Form into a loaf shape in a baking pan.",
+      "Bake meatloaf until cooked through (internal temperature reaches 160°F or 71°C).",
+      "Prepare mashed potatoes: Peel and boil Potatoes until tender. Drain well. Mash the potatoes with Milk and one portion of Butter until smooth. Season with Pepper.",
+      "Prepare gravy: In a saucepan, melt the other portion of Butter. Whisk in Flour and cook for 1-2 minutes to make a roux. Gradually whisk in Beef Broth until smooth. Bring to a simmer and cook until thickened. Season with Pepper. (Alternatively, use meatloaf drippings as a base for the gravy).",
+      "Cook Green Beans by steaming, boiling, or sautéing until tender-crisp.",
+      "Slice the meatloaf and serve with mashed potatoes, green beans, and gravy."
+    ]
+  },
+  {
+    "dish_name": "Teriyaki Salmon with Rice",
+    "cuisine_type": "Japanese",
+    "calories": 680,
+    "macros": {
+      "protein_g": 40,
+      "carbs_g": 70,
+      "fat_g": 28
+    },
+    "ingredients": [
+      "Salmon Fillet",
+      "Soy Sauce",
+      "Mirin",
+      "Sake",
+      "Sugar",
+      "Ginger",
+      "Garlic",
+      "White Rice",
+      "Broccoli",
+      "Sesame Seeds",
+      "Pepper"
+    ],
+    "cost": "$$$",
+    "healthy_flag": true,
+    "cooking_instructions": [
+      "Cook White Rice according to package directions.",
+      "Prepare teriyaki sauce: In a small bowl, combine Soy Sauce, Mirin, Sake, Sugar, grated Ginger, and minced Garlic. Whisk until sugar is dissolved.",
+      "Marinate Salmon Fillet in about half of the teriyaki sauce for at least 15-20 minutes (or longer in the fridge).",
+      "Steam or blanch Broccoli florets until tender-crisp.",
+      "Pan-sear or bake the salmon: Heat a little oil in a skillet over medium-high heat. Place salmon skin-side down (if applicable) and cook for 3-4 minutes. Flip and cook for another 2-4 minutes, or until cooked through. Baste with some of the remaining teriyaki sauce during the last minute of cooking. Alternatively, bake in a preheated oven.",
+      "Serve salmon over a bed of white rice, with steamed broccoli on the side.",
+      "Drizzle with any remaining teriyaki sauce, garnish with Sesame Seeds, and season with Pepper if desired."
+    ]
+  },
+  {
+    "dish_name": "Greek Salad with Grilled Chicken and Pita",
+    "cuisine_type": "Mediterranean",
+    "calories": 600,
+    "macros": {
+      "protein_g": 35,
+      "carbs_g": 45,
+      "fat_g": 30
+    },
+    "ingredients": [
+      "Tomatoes",
+      "Cucumbers",
+      "Red Onion",
+      "Olives",
+      "Feta Cheese",
+      "Chicken",
+      "Extra Virgin Olive Oil",
+      "Red Wine Vinegar",
+      "Lemon Juice",
+      "Dried Oregano",
+      "Bell Peppers",
+      "Pita Bread",
+      "Pepper"
+    ],
+    "cost": "$$",
+    "healthy_flag": true,
+    "cooking_instructions": [
+      "Season Chicken (e.g., breast or thigh pieces) with Dried Oregano and Pepper. Grill or pan-sear until cooked through. Let rest, then slice or dice.",
+      "Prepare the salad vegetables: Chop Tomatoes, Cucumbers, Bell Peppers, and thinly slice Red Onion.",
+      "In a large salad bowl, combine the chopped vegetables and Olives.",
+      "Prepare the dressing: In a small bowl, whisk together Extra Virgin Olive Oil, Red Wine Vinegar, Lemon Juice, Dried Oregano, and Pepper.",
+      "Add the cooked chicken and crumbled Feta Cheese to the salad bowl.",
+      "Pour the dressing over the salad and toss gently to combine.",
+      "Warm Pita Bread (e.g., in an oven, toaster, or on a grill).",
+      "Serve the Greek salad with warm pita bread on the side."
+    ]
+  },
+  {
+    "dish_name": "Meatloaf with Gravy and Mashed Potatoes",
+    "cuisine_type": "American",
+    "calories": 780,
+    "macros": {
+      "protein_g": 40,
+      "carbs_g": 65,
+      "fat_g": 40
+    },
+    "ingredients": [
+      "Ground Beef",
+      "Breadcrumbs",
+      "Egg",
+      "Onion",
+      "Tomato Paste",
+      "Beef Broth",
+      "Flour",
+      "Butter",
+      "Potatoes",
+      "Milk",
+      "Green Beans",
+      "Pepper",
+      "Garlic Powder",
+      "Onion Powder",
+      "Worcestershire Sauce"
+    ],
+    "cost": "$$",
+    "healthy_flag": false,
+    "cooking_instructions": [
+      "Prepare the meatloaf: Preheat oven. In a large bowl, combine Ground Beef, Breadcrumbs, beaten Egg, finely chopped Onion, Tomato Paste, a splash of Worcestershire Sauce, Garlic Powder, Onion Powder, and Pepper. Mix gently. Form into a loaf shape in a baking pan.",
+      "Bake meatloaf until cooked through (internal temperature reaches 160°F or 71°C).",
+      "Prepare mashed potatoes: Peel and boil Potatoes until tender. Drain well. Mash the potatoes with Milk and a portion of the Butter until smooth. Season with Pepper.",
+      "Prepare gravy: In a saucepan, melt the remaining Butter (or use meatloaf drippings). Whisk in Flour and cook for 1-2 minutes. Gradually whisk in Beef Broth until smooth. Simmer until thickened. Season with Pepper.",
+      "Cook Green Beans by steaming, boiling, or sautéing until tender-crisp.",
+      "Slice the meatloaf and serve with mashed potatoes, green beans, and gravy."
+    ]
+  },
+  {
+    "dish_name": "Greek Salad with Grilled Chicken and Pita",
+    "cuisine_type": "Mediterranean",
+    "calories": 600,
+    "macros": {
+      "protein_g": 35,
+      "carbs_g": 45,
+      "fat_g": 30
+    },
+    "ingredients": [
+      "Tomatoes",
+      "Cucumbers",
+      "Red Onion",
+      "Olives",
+      "Feta Cheese",
+      "Chicken Breast",
+      "Extra Virgin Olive Oil",
+      "Red Wine Vinegar",
+      "Lemon Juice",
+      "Dried Oregano",
+      "Bell Peppers",
+      "Pita Bread",
+      "Pepper"
+    ],
+    "cost": "$$",
+    "healthy_flag": true,
+    "cooking_instructions": [
+      "Season Chicken Breast with Dried Oregano and Pepper. Grill or pan-sear until cooked through. Let rest, then slice or dice.",
+      "Prepare the salad vegetables: Chop Tomatoes, Cucumbers, Bell Peppers, and thinly slice Red Onion.",
+      "In a large salad bowl, combine the chopped vegetables and Olives.",
+      "Prepare the dressing: In a small bowl, whisk together Extra Virgin Olive Oil, Red Wine Vinegar, Lemon Juice, Dried Oregano, and Pepper.",
+      "Add the cooked chicken and crumbled Feta Cheese to the salad bowl.",
+      "Pour the dressing over the salad and toss gently to combine.",
+      "Warm Pita Bread (e.g., in an oven, toaster, or on a grill).",
+      "Serve the Greek salad with warm pita bread on the side."
+    ]
+  },
+  {
+    "dish_name": "Spaghetti with Meat Sauce",
+    "cuisine_type": "Italian",
+    "calories": 700,
+    "macros": {
+      "protein_g": 30,
+      "carbs_g": 80,
+      "fat_g": 28
+    },
+    "ingredients": [
+      "Spaghetti Pasta",
+      "Ground Beef",
+      "Canned Crushed Tomatoes",
+      "Onion",
+      "Garlic",
+      "Olive Oil",
+      "Dried Oregano",
+      "Dried Basil",
+      "Parmesan Cheese",
+      "Black Pepper"
+    ],
+    "cost": "$$",
+    "healthy_flag": false,
+    "cooking_instructions": [
+      "Cook Spaghetti Pasta according to package directions until al dente. Drain, reserving some pasta water.",
+      "Heat Olive Oil in a large skillet or pot over medium heat. Add chopped Onion and cook until softened, about 5 minutes.",
+      "Add minced Garlic and cook for another minute until fragrant.",
+      "Add Ground Beef to the skillet. Cook, breaking it apart with a spoon, until browned. Drain off any excess fat.",
+      "Stir in Canned Crushed Tomatoes, Dried Oregano, and Dried Basil. Season with Black Pepper.",
+      "Bring the sauce to a simmer, then reduce heat, cover, and cook for at least 20-30 minutes (or longer for more developed flavor), stirring occasionally. If sauce becomes too thick, add a splash of reserved pasta water.",
+      "Serve the meat sauce over the cooked spaghetti.",
+      "Top with grated Parmesan Cheese before serving."
+    ]
+  },
+  {
+    "dish_name": "Chicken Stir-Fry with Mixed Vegetables and Rice",
+    "cuisine_type": "Asian",
+    "calories": 600,
+    "macros": {
+      "protein_g": 35,
+      "carbs_g": 65,
+      "fat_g": 20
+    },
+    "ingredients": [
+      "Chicken Breast",
+      "Broccoli Florets",
+      "Carrot",
+      "Bell Peppers",
+      "Snap Peas",
+      "Onion",
+      "Garlic",
+      "Ginger",
+      "Soy Sauce",
+      "Sesame Oil",
+      "Cornstarch",
+      "Vegetable Oil",
+      "White Rice",
+      "Black Pepper"
+    ],
+    "cost": "$$",
+    "healthy_flag": true,
+    "cooking_instructions": [
+      "Cook White Rice according to package directions.",
+      "Slice Chicken Breast into thin strips. In a bowl, toss chicken with 1 tablespoon of Soy Sauce and 1 teaspoon of Cornstarch. Set aside to marinate for 10-15 minutes.",
+      "Prepare vegetables: Chop Broccoli Florets, slice Carrot and Bell Peppers, and trim Snap Peas. Chop Onion, mince Garlic, and grate Ginger.",
+      "Heat 1 tablespoon of Vegetable Oil in a wok or large skillet over high heat. Add marinated chicken and stir-fry until cooked through and lightly browned. Remove chicken from wok and set aside.",
+      "Add another tablespoon of Vegetable Oil to the wok. Add Onion, Garlic, and Ginger. Stir-fry for 30 seconds until fragrant.",
+      "Add Broccoli, Carrot, and Bell Peppers. Stir-fry for 3-5 minutes until vegetables are tender-crisp.",
+      "Return cooked chicken to the wok. Add Snap Peas.",
+      "In a small bowl, mix remaining Soy Sauce (e.g., 2-3 tablespoons) with a drizzle of Sesame Oil. Pour over the stir-fry. Toss everything to combine and heat through.",
+      "Season with Black Pepper to taste.",
+      "Serve immediately over cooked white rice."
+    ]
+  },
+  {
+    "dish_name": "Ground Beef Tacos",
+    "cuisine_type": "American",
+    "calories": 550,
+    "macros": {
+      "protein_g": 25,
+      "carbs_g": 40,
+      "fat_g": 30
+    },
+    "ingredients": [
+      "Ground Beef",
+      "Taco Seasoning",
+      "Soft Taco Tortillas",
+      "Lettuce",
+      "Tomatoes",
+      "Shredded Cheddar Cheese",
+      "Salsa",
+      "Sour Cream",
+      "Black Pepper"
+    ],
+    "cost": "$$",
+    "healthy_flag": false,
+    "cooking_instructions": [
+      "Cook Ground Beef in a large skillet over medium heat until browned, breaking it apart with a spoon. Drain off excess fat.",
+      "Stir in Taco Seasoning and water (according to seasoning package directions). Bring to a simmer and cook for 5-7 minutes, or until the liquid has reduced and the sauce has thickened. Season with Black Pepper if needed.",
+      "Warm Soft Taco Tortillas according to package instructions (e.g., microwave, oven, or dry skillet).",
+      "Prepare toppings: Shred Lettuce, dice Tomatoes.",
+      "Assemble tacos: Fill each warm tortilla with a portion of the seasoned ground beef.",
+      "Top with shredded lettuce, diced tomatoes, Shredded Cheddar Cheese, Salsa, and a dollop of Sour Cream as desired.",
+      "Serve immediately."
+    ]
+  },
+  {
+    "dish_name": "Shepherd's Pie",
+    "cuisine_type": "British",
+    "calories": 650,
+    "macros": {
+      "protein_g": 30,
+      "carbs_g": 55,
+      "fat_g": 30
+    },
+    "ingredients": [
+      "Ground Beef",
+      "Potatoes",
+      "Onion",
+      "Carrots",
+      "Peas",
+      "Corn",
+      "Beef Broth",
+      "Tomato Paste",
+      "Worcestershire Sauce",
+      "Flour",
+      "Butter",
+      "Milk",
+      "Olive Oil",
+      "Black Pepper",
+      "Thyme"
+    ],
+    "cost": "$$",
+    "healthy_flag": false,
+    "cooking_instructions": [
+      "Prepare mashed potato topping: Peel and boil Potatoes until tender. Drain well. Mash with Butter and Milk until smooth. Season with Black Pepper.",
+      "Prepare the filling: Heat Olive Oil in a large skillet or pot over medium heat. Add chopped Onion and diced Carrots. Cook until softened.",
+      "Add Ground Beef and cook, breaking it apart, until browned. Drain off excess fat.",
+      "Stir in Flour and cook for 1 minute. Add Tomato Paste, Beef Broth, Worcestershire Sauce, dried Thyme, and Black Pepper. Bring to a simmer.",
+      "Stir in Peas and Corn. Cook for a few more minutes until the sauce has thickened slightly.",
+      "Preheat oven. Pour the meat filling into a baking dish.",
+      "Spread the mashed potato topping evenly over the meat filling. You can use a fork to create a textured surface.",
+      "Bake for 20-25 minutes, or until the topping is golden brown and the filling is bubbly.",
+      "Let it cool slightly before serving."
+    ]
+  },
+  {
+    "dish_name": "Chili con Carne",
+    "cuisine_type": "American",
+    "calories": 500,
+    "macros": {
+      "protein_g": 30,
+      "carbs_g": 45,
+      "fat_g": 20
+    },
+    "ingredients": [
+      "Ground Beef",
+      "Kidney Beans",
+      "Diced Tomatoes (canned)",
+      "Tomato Sauce (canned)",
+      "Onion",
+      "Bell Pepper",
+      "Garlic",
+      "Chili Powder",
+      "Cumin Powder",
+      "Oregano (dried)",
+      "Olive Oil",
+      "Black Pepper"
+    ],
+    "cost": "$$",
+    "healthy_flag": true,
+    "cooking_instructions": [
+      "Heat Olive Oil in a large pot or Dutch oven over medium heat. Add chopped Onion and Bell Pepper. Cook until softened, about 5-7 minutes.",
+      "Add minced Garlic and cook for another minute until fragrant.",
+      "Add Ground Beef and cook, breaking it apart, until browned. Drain off excess fat.",
+      "Stir in Chili Powder, Cumin Powder, and dried Oregano. Cook for 1 minute, stirring, to toast the spices.",
+      "Add Diced Tomatoes (undrained), Tomato Sauce, and Kidney Beans (rinsed and drained). Season with Black Pepper.",
+      "Bring to a simmer, then reduce heat to low, cover, and cook for at least 30 minutes (or up to 1-2 hours for richer flavor), stirring occasionally.",
+      "Taste and adjust seasonings if necessary.",
+      "Serve hot, optionally with toppings like shredded cheese, sour cream, or chopped green onions."
+    ]
+  },
+  {
+    "dish_name": "Classic Macaroni and Cheese",
+    "cuisine_type": "American",
+    "calories": 650,
+    "macros": {
+      "protein_g": 25,
+      "carbs_g": 60,
+      "fat_g": 33
+    },
+    "ingredients": [
+      "Elbow Macaroni Pasta",
+      "Milk",
+      "Butter",
+      "All-Purpose Flour",
+      "Cheddar Cheese (shredded)",
+      "Black Pepper",
+      "Breadcrumbs"
+    ],
+    "cost": "$",
+    "healthy_flag": false,
+    "cooking_instructions": [
+      "Cook Elbow Macaroni Pasta according to package directions until al dente. Drain well.",
+      "While pasta is cooking, prepare the cheese sauce: In a medium saucepan, melt Butter over medium heat.",
+      "Whisk in All-Purpose Flour and cook for 1-2 minutes, stirring constantly, to make a roux.",
+      "Gradually whisk in Milk until smooth. Bring to a simmer, stirring frequently, until the sauce thickens (about 5-7 minutes).",
+      "Remove saucepan from heat. Stir in shredded Cheddar Cheese until melted and the sauce is smooth. Season with Black Pepper to taste.",
+      "Add the drained macaroni to the cheese sauce and stir to combine.",
+      "Optional baked version: Transfer the macaroni and cheese to a baking dish. Sprinkle Breadcrumbs evenly over the top. Bake in a preheated oven at 375°F (190°C) for 15-20 minutes, or until bubbly and the topping is golden brown.",
+      "Serve immediately if not baking, or after baking."
+    ]
+  },
+  {
+    "dish_name": "Hearty Lentil Soup",
+    "cuisine_type": "Mediterranean",
+    "calories": 350,
+    "macros": {
+      "protein_g": 18,
+      "carbs_g": 50,
+      "fat_g": 8
+    },
+    "ingredients": [
+      "Brown  Lentils",
+      "Vegetable Broth",
+      "Onion",
+      "Carrots",
+      "Celery",
+      "Garlic",
+      "Diced Tomatoes (canned)",
+      "Olive Oil",
+      "Cumin Powder",
+      "Coriander Powder",
+      "Turmeric Powder",
+      "Bay Leaf",
+      "Black Pepper",
+      "Lemon"
+    ],
+    "cost": "$",
+    "healthy_flag": true,
+    "cooking_instructions": [
+      "Rinse Brown Lentils thoroughly under cold water.",
+      "Heat Olive Oil in a large pot or Dutch oven over medium heat. Add chopped Onion, Carrots, and Celery. Cook until softened, about 5-7 minutes.",
+      "Add minced Garlic and cook for another minute until fragrant.",
+      "Stir in Cumin Powder, Coriander Powder, and Turmeric Powder. Cook for 1 minute, stirring, to toast the spices.",
+      "Add the rinsed lentils, Vegetable Broth, Diced Tomatoes (undrained), and Bay Leaf to the pot. Season with Black Pepper.",
+      "Bring the soup to a boil, then reduce heat to low, cover, and simmer for 25-35 minutes, or until the lentils are tender.",
+      "Remove the Bay Leaf.",
+      "Stir in a squeeze of fresh Lemon juice before serving.",
+      "Taste and adjust seasonings if necessary. Serve hot."
+    ]
+  },
+  {
+    "dish_name": "Tuna Salad Sandwich",
+    "cuisine_type": "American",
+    "calories": 450,
+    "macros": {
+      "protein_g": 25,
+      "carbs_g": 40,
+      "fat_g": 20
+    },
+    "ingredients": [
+      "Canned Tuna",
+      "Mayonnaise",
+      "Celery",
+      "Red Onion",
+      "Whole Wheat Bread",
+      "Lettuce",
+      "Black Pepper"
+    ],
+    "cost": "$",
+    "healthy_flag": true,
+    "cooking_instructions": [
+      "Drain Canned Tuna well.",
+      "In a medium bowl, combine the drained tuna, Mayonnaise, finely chopped Celery, and finely chopped Red Onion.",
+      "Mix well until all ingredients are evenly combined. Season with Black Pepper to taste.",
+      "Lay out slices of Whole Wheat Bread.",
+      "Place Lettuce leaves on one slice of bread (per sandwich).",
+      "Spread a generous amount of tuna salad mixture over the lettuce.",
+      "Top with another slice of bread to complete the sandwich.",
+      "Slice in half if desired and serve immediately."
+    ]
+  },
+  {
+    "dish_name": "Chicken Noodle Soup",
+    "cuisine_type": "American",
+    "calories": 300,
+    "macros": {
+      "protein_g": 20,
+      "carbs_g": 35,
+      "fat_g": 8
+    },
+    "ingredients": [
+      "Chicken Broth",
+      "Egg Noodles",
+      "Chicken Breast",
+      "Carrot",
+      "Celery",
+      "Onion",
+      "Fresh Parsley",
+      "Black Pepper"
+    ],
+    "cost": "$",
+    "healthy_flag": true,
+    "cooking_instructions": [
+      "Dice Chicken Breast into small, bite-sized pieces. Chop Carrot, Celery, and Onion.",
+      "In a large pot or Dutch oven, combine Chicken Broth, diced chicken, chopped carrot, celery, and onion.",
+      "Bring the mixture to a boil over medium-high heat, then reduce heat to low, cover, and simmer for 15-20 minutes, or until the chicken is cooked through and the vegetables are tender.",
+      "Add Egg Noodles to the soup. Cook according to package directions (usually 7-10 minutes), or until noodles are tender.",
+      "Stir in chopped Fresh Parsley.",
+      "Season with Black Pepper to taste.",
+      "Serve hot."
+    ]
+  },
+  {
+    "dish_name": "Beef and Broccoli Stir-Fry",
+    "cuisine_type": "Asian",
+    "calories": 550,
+    "macros": {
+      "protein_g": 35,
+      "carbs_g": 60,
+      "fat_g": 20
+    },
+    "ingredients": [
+      "Beef Sirloin",
+      "Broccoli Florets",
+      "Soy Sauce",
+      "Ginger",
+      "Garlic",
+      "Cornstarch",
+      "Sesame Oil",
+      "Vegetable Oil",
+      "White Rice",
+      "Onion",
+      "Black Pepper"
+    ],
+    "cost": "$$",
+    "healthy_flag": true,
+    "cooking_instructions": [
+      "Cook White Rice according to package directions.",
+      "Slice Beef Sirloin thinly against the grain. In a bowl, toss beef with 1 tablespoon of Soy Sauce and 1 teaspoon of Cornstarch. Set aside.",
+      "Prepare vegetables: Cut Broccoli into florets. Chop Onion, mince Garlic, and grate Ginger.",
+      "Heat 1 tablespoon of Vegetable Oil in a wok or large skillet over high heat. Add marinated beef and stir-fry until browned and cooked through. Remove beef from wok and set aside.",
+      "Add another tablespoon of Vegetable Oil to the wok if needed. Add Onion, Garlic, and Ginger. Stir-fry for 30 seconds until fragrant.",
+      "Add Broccoli Florets to the wok. Stir-fry for 3-5 minutes. Add a splash of water or broth if needed to help steam the broccoli until tender-crisp.",
+      "Return cooked beef to the wok.",
+      "In a small bowl, mix remaining Soy Sauce (e.g., 2-3 tablespoons) with a drizzle of Sesame Oil. Pour over the stir-fry. Toss everything to combine and heat through.",
+      "Season with Black Pepper to taste.",
+      "Serve immediately over cooked white rice."
+    ]
+  },
+  {
+    "dish_name": "Chicken Quesadillas",
+    "cuisine_type": "Mexican",
+    "calories": 500,
+    "macros": {
+      "protein_g": 30,
+      "carbs_g": 40,
+      "fat_g": 25
+    },
+    "ingredients": [
+      "Flour Tortillas",
+      "Chicken Breast",
+      "Monterey Jack Cheese",
+      "Bell Pepper",
+      "Onion",
+      "Olive Oil",
+      "Salsa",
+      "Sour Cream",
+      "Black Pepper"
+    ],
+    "cost": "$$",
+    "healthy_flag": false,
+    "cooking_instructions": [
+      "Dice Chicken Breast into small pieces. Chop Bell Pepper and Onion.",
+      "Heat 1 tablespoon of Olive Oil in a skillet over medium-high heat. Add chicken and cook until browned and cooked through. Season with Black Pepper.",
+      "Add chopped bell pepper and onion to the skillet with the chicken. Cook until vegetables are tender-crisp.",
+      "Remove chicken and vegetable mixture from skillet and set aside.",
+      "Wipe the skillet clean or use a new one. Place a Flour Tortilla in the dry skillet over medium heat.",
+      "Sprinkle a layer of shredded Monterey Jack Cheese over one half of the tortilla.",
+      "Spoon a portion of the chicken and vegetable mixture over the cheese.",
+      "Fold the other half of the tortilla over the filling to create a half-moon shape.",
+      "Cook for 2-3 minutes per side, or until the tortilla is golden brown and crispy, and the cheese is melted.",
+      "Repeat with remaining tortillas, cheese, and filling.",
+      "Cut quesadillas into wedges and serve hot with Salsa and Sour Cream on the side."
+    ]
+  },
+  {
+    "dish_name": "Scrambled Eggs with Toast",
+    "cuisine_type": "American",
+    "calories": 350,
+    "macros": {
+      "protein_g": 20,
+      "carbs_g": 30,
+      "fat_g": 18
+    },
+    "ingredients": [
+      "Eggs",
+      "Milk",
+      "Butter",
+      "Whole Wheat Bread",
+      "Black Pepper"
+    ],
+    "cost": "$",
+    "healthy_flag": true,
+    "cooking_instructions": [
+      "Crack Eggs into a bowl. Add a splash of Milk and season with Black Pepper (and salt, if desired). Whisk until well combined and slightly frothy.",
+      "Melt Butter in a non-stick skillet over medium-low heat.",
+      "Pour the egg mixture into the hot skillet.",
+      "Let the eggs set for a few seconds, then gently push the cooked portions from the edges toward the center, tilting the pan to allow uncooked egg to flow underneath.",
+      "Continue cooking, stirring gently, until the eggs are cooked to your desired consistency (soft-scrambled or fully set).",
+      "While eggs are cooking, toast slices of Whole Wheat Bread to your liking.",
+      "Serve the scrambled eggs immediately with the toast."
+    ]
+  },
+  {
+    "dish_name": "Oven-Baked Salmon with Roasted Asparagus",
+    "cuisine_type": "American",
+    "calories": 450,
+    "macros": {
+      "protein_g": 40,
+      "carbs_g": 15,
+      "fat_g": 25
+    },
+    "ingredients": [
+      "Salmon Fillet",
+      "Asparagus",
+      "Olive Oil",
+      "Lemon",
+      "Garlic Powder",
+      "Black Pepper"
+    ],
+    "cost": "$$$",
+    "healthy_flag": true,
+    "cooking_instructions": [
+      "Preheat oven to 400°F (200°C). Line a baking sheet with parchment paper.",
+      "Trim the tough ends of the Asparagus spears. Place asparagus on one side of the baking sheet.",
+      "Drizzle asparagus with about 1 tablespoon of Olive Oil, sprinkle with Garlic Powder, and season with Black Pepper. Toss to coat.",
+      "Place Salmon Fillet on the other side of the baking sheet. Drizzle with remaining Olive Oil (about 1 teaspoon).",
+      "Squeeze fresh Lemon juice over the salmon. Sprinkle with Garlic Powder and season with Black Pepper.",
+      "Bake for 12-18 minutes, depending on the thickness of the salmon, or until salmon is cooked through and flakes easily with a fork, and asparagus is tender-crisp.",
+      "Serve immediately, with extra lemon wedges if desired."
+    ]
+  },
+  {
+    "dish_name": "Black Bean Burgers",
+    "cuisine_type": "American",
+    "calories": 480,
+    "macros": {
+      "protein_g": 20,
+      "carbs_g": 60,
+      "fat_g": 18
+    },
+    "ingredients": [
+      "Canned Black Beans",
+      "Breadcrumbs",
+      "Onion",
+      "Garlic",
+      "Cumin Powder",
+      "Chili Powder",
+      "Egg",
+      "Olive Oil",
+      "Hamburger Buns",
+      "Lettuce",
+      "Tomato",
+      "Ketchup",
+      "Mustard",
+      "Black Pepper"
+    ],
+    "cost": "$",
+    "healthy_flag": true,
+    "cooking_instructions": [
+      "Rinse and drain Canned Black Beans. In a large bowl, mash the black beans with a fork or potato masher until mostly broken down but still with some texture.",
+      "Add Breadcrumbs, finely chopped Onion, minced Garlic, Cumin Powder, Chili Powder, one beaten Egg, and Black Pepper to the mashed beans. Mix well until combined.",
+      "Shape the mixture into burger patties (about 4, depending on size). If the mixture is too wet, add more breadcrumbs.",
+      "Heat Olive Oil in a large skillet over medium heat.",
+      "Carefully place the black bean patties in the hot skillet. Cook for 4-6 minutes per side, or until browned, crispy, and heated through.",
+      "Toast Hamburger Buns if desired.",
+      "Serve black bean burgers on buns with Lettuce, sliced Tomato, Ketchup, Mustard, and any other desired toppings."
+    ]
+  },
+  {
+    "dish_name": "Tomato Soup with Grilled Cheese",
+    "cuisine_type": "American",
+    "calories": 600,
+    "macros": {
+      "protein_g": 20,
+      "carbs_g": 70,
+      "fat_g": 28
+    },
+    "ingredients": [
+      "Canned Diced Tomatoes",
+      "Vegetable Broth",
+      "Onion",
+      "Garlic",
+      "Olive Oil",
+      "Heavy Cream",
+      "Fresh Basil",
+      "White Bread",
+      "Cheddar Cheese",
+      "Butter",
+      "Black Pepper"
+    ],
+    "cost": "$",
+    "healthy_flag": false,
+    "cooking_instructions": [
+      "Prepare tomato soup: Heat Olive Oil in a medium pot or Dutch oven over medium heat. Add chopped Onion and cook until softened, about 5 minutes.",
+      "Add minced Garlic and cook for another minute until fragrant.",
+      "Pour in Canned Diced Tomatoes (undrained) and Vegetable Broth. Bring to a simmer.",
+      "Reduce heat and cook for 10-15 minutes. For a smoother soup, use an immersion blender or carefully transfer to a regular blender to blend until smooth.",
+      "Return soup to pot if blended. Stir in Heavy Cream and chopped Fresh Basil. Season with Black Pepper to taste. Keep warm.",
+      "Prepare grilled cheese: Spread Butter on one side of each slice of White Bread.",
+      "Place one slice of bread, butter-side down, in a non-stick skillet over medium heat. Top with slices or shredded Cheddar Cheese.",
+      "Place another slice of bread on top, butter-side up.",
+      "Cook for 2-4 minutes per side, or until bread is golden brown and crispy, and cheese is melted.",
+      "Serve the hot tomato soup with the grilled cheese sandwich on the side for dipping."
+    ]
+  },
+  {
+    "dish_name": "Chicken and Vegetable Skewers with Quinoa",
+    "cuisine_type": "Mediterranean",
+    "calories": 500,
+    "macros": {
+      "protein_g": 40,
+      "carbs_g": 50,
+      "fat_g": 18
+    },
+    "ingredients": [
+      "Chicken Breast",
+      "Bell Pepper",
+      "Zucchini",
+      "Red Onion",
+      "Cherry Tomatoes",
+      "Olive Oil",
+      "Lemon Juice",
+      "Dried Oregano",
+      "Garlic Powder",
+      "Quinoa",
+      "Black Pepper"
+    ],
+    "cost": "$$",
+    "healthy_flag": true,
+    "cooking_instructions": [
+      "Cook Quinoa according to package directions. Set aside.",
+      "Cut Chicken Breast into 1-inch cubes. Chop Bell Pepper, Zucchini, and Red Onion into similar-sized pieces.",
+      "In a large bowl, combine chicken pieces and chopped vegetables (except cherry tomatoes).",
+      "Add Olive Oil, Lemon Juice, Dried Oregano, Garlic Powder, and Black Pepper to the bowl. Toss well to coat everything.",
+      "Let marinate for at least 15-20 minutes (or longer in the fridge).",
+      "Thread the marinated chicken and vegetables, along with Cherry Tomatoes, onto skewers, alternating ingredients.",
+      "Preheat grill or a grill pan to medium-high heat. Lightly oil the grates.",
+      "Place skewers on the grill. Cook for 10-15 minutes, turning occasionally, until chicken is cooked through and vegetables are tender and slightly charred.",
+      "Serve hot skewers over a bed of cooked quinoa."
+    ]
+  },
+  {
+    "dish_name": "Simple Fried Rice",
+    "cuisine_type": "Asian",
+    "calories": 450,
+    "macros": {
+      "protein_g": 15,
+      "carbs_g": 70,
+      "fat_g": 12
+    },
+    "ingredients": [
+      "White Rice",
+      "Eggs",
+      "Soy Sauce",
+      "Frozen Peas",
+      "Carrot",
+      "Onion",
+      "Garlic",
+      "Vegetable Oil",
+      "Sesame Oil",
+      "Green Onion",
+      "Black Pepper"
+    ],
+    "cost": "$",
+    "healthy_flag": true,
+    "cooking_instructions": [
+      "Cook White Rice according to package directions and let it cool completely (preferably use day-old, refrigerated rice for best results).",
+      "Dice Carrot and Onion. Mince Garlic. Chop Green Onion.",
+      "Lightly beat Eggs in a small bowl.",
+      "Heat 1 tablespoon of Vegetable Oil in a large wok or skillet over medium-high heat. Add beaten eggs and cook, scrambling, until just set. Remove eggs from wok and set aside.",
+      "Add another tablespoon of Vegetable Oil to the wok. Add chopped Onion and Carrot. Stir-fry for 2-3 minutes until slightly softened.",
+      "Add minced Garlic and stir-fry for another 30 seconds until fragrant.",
+      "Add the cooled cooked rice to the wok. Break up any clumps with a spatula. Stir-fry for 2-3 minutes until heated through.",
+      "Stir in Soy Sauce, Frozen Peas, and the cooked scrambled eggs. Continue to stir-fry until everything is well combined and peas are heated through.",
+      "Stir in a drizzle of Sesame Oil and chopped Green Onion.",
+      "Season with Black Pepper to taste.",
+      "Serve immediately."
+    ]
+  },
+  {
+    "dish_name": "Pasta Aglio e Olio",
+    "cuisine_type": "Italian",
+    "calories": 500,
+    "macros": {
+      "protein_g": 12,
+      "carbs_g": 70,
+      "fat_g": 20
+    },
+    "ingredients": [
+      "Spaghetti Pasta",
+      "Olive Oil",
+      "Garlic",
+      "Red Pepper Flakes",
+      "Fresh Parsley",
+      "Parmesan Cheese",
+      "Black Pepper"
+    ],
+    "cost": "$",
+    "healthy_flag": false,
+    "cooking_instructions": [
+      "Cook Spaghetti Pasta according to package directions until al dente. Reserve about 1 cup of the pasta cooking water before draining the pasta.",
+      "While pasta is cooking, thinly slice Garlic.",
+      "In a large skillet or pan, heat Olive Oil over low-medium heat. Add the sliced garlic and Red Pepper Flakes (to taste).",
+      "Cook gently, stirring occasionally, until the garlic is lightly golden and fragrant (be careful not to burn it, which makes it bitter). This should take about 3-5 minutes.",
+      "Add the drained spaghetti to the skillet with the garlic and oil. Toss to coat.",
+      "Add a splash (about 1/4 to 1/2 cup) of the reserved pasta water to the skillet. This helps create a light sauce and emulsify with the oil.",
+      "Stir in finely chopped Fresh Parsley and grated Parmesan Cheese. Toss well to combine.",
+      "Season with Black Pepper to taste.",
+      "Serve immediately, with extra Parmesan Cheese if desired."
+    ]
+  },
+  {
+    "dish_name": "Beef Stew",
+    "cuisine_type": "American",
+    "calories": 450,
+    "macros": {
+      "protein_g": 30,
+      "carbs_g": 40,
+      "fat_g": 18
+    },
+    "ingredients": [
+      "Beef Stew Meat",
+      "Potatoes",
+      "Carrot",
+      "Celery",
+      "Onion",
+      "Beef Broth",
+      "Tomato Paste",
+      "All-Purpose Flour",
+      "Olive Oil",
+      "Garlic",
+      "Dried Thyme",
+      "Bay Leaf",
+      "Frozen Peas",
+      "Black Pepper"
+    ],
+    "cost": "$$",
+    "healthy_flag": true,
+    "cooking_instructions": [
+      "Pat Beef Stew Meat dry and season with salt and Black Pepper. Toss with All-Purpose Flour to lightly coat.",
+      "Heat Olive Oil in a large pot or Dutch oven over medium-high heat. Brown the beef in batches, ensuring not to overcrowd the pot. Remove browned beef and set aside.",
+      "Add chopped Onion, Carrot, and Celery to the pot. Cook until softened, about 5-7 minutes.",
+      "Add minced Garlic and cook for another minute until fragrant.",
+      "Return the browned beef to the pot. Stir in Tomato Paste and cook for 1-2 minutes.",
+      "Pour in Beef Broth, scraping up any browned bits from the bottom of the pot. Add Dried Thyme and Bay Leaf.",
+      "Bring to a simmer, then reduce heat to low, cover, and cook for 1.5 to 2 hours, or until the beef is very tender.",
+      "Add cubed Potatoes to the stew. Cover and continue to simmer for another 20-30 minutes, or until potatoes are tender.",
+      "Stir in Frozen Peas during the last 5 minutes of cooking.",
+      "Remove Bay Leaf. Taste and adjust seasoning with Black Pepper if needed.",
+      "Serve hot."
+    ]
+  },
+  {
+    "dish_name": "Lentil and Vegetable Curry",
+    "cuisine_type": "Indian",
+    "calories": 420,
+    "macros": {
+      "protein_g": 18,
+      "carbs_g": 65,
+      "fat_g": 12
+    },
+    "ingredients": [
+      "Red Lentils",
+      "Light Coconut Milk",
+      "Onion",
+      "Garlic",
+      "Ginger",
+      "Canned Diced Tomatoes",
+      "Spinach",
+      "Carrot",
+      "Curry Powder",
+      "Turmeric Powder",
+      "Cumin Powder",
+      "Vegetable Oil",
+      "Fresh Cilantro",
+      "White Rice",
+      "Black Pepper"
+    ],
+    "cost": "$",
+    "healthy_flag": true,
+    "cooking_instructions": [
+      "Cook White Rice according to package directions. Set aside.",
+      "Rinse Red Lentils thoroughly under cold water.",
+      "Heat Vegetable Oil in a large pot or Dutch oven over medium heat. Add chopped Onion and cook until softened.",
+      "Add minced Garlic and grated Ginger. Cook for another minute until fragrant.",
+      "Stir in Curry Powder, Turmeric Powder, and Cumin Powder. Cook for 1 minute, stirring, to toast the spices.",
+      "Add the rinsed red lentils, Canned Diced Tomatoes (undrained), Light Coconut Milk, and diced Carrot to the pot. Season with Black Pepper.",
+      "Bring to a simmer, then reduce heat to low, cover, and cook for 20-25 minutes, or until lentils and carrots are tender. Stir occasionally to prevent sticking.",
+      "Once lentils are cooked, stir in fresh Spinach leaves until they wilt.",
+      "Taste and adjust seasonings if necessary.",
+      "Serve the lentil curry hot over cooked white rice, garnished with Fresh Cilantro."
+    ]
+  },
+  {
+    "dish_name": "Baked Potato with Chili and Cheese",
+    "cuisine_type": "American",
+    "calories": 600,
+    "macros": {
+      "protein_g": 25,
+      "carbs_g": 70,
+      "fat_g": 25
+    },
+    "ingredients": [
+      "Russet Potato",
+      "Canned Beef Chili",
+      "Cheddar Cheese",
+      "Sour Cream",
+      "Green Onion",
+      "Black Pepper"
+    ],
+    "cost": "$",
+    "healthy_flag": false,
+    "cooking_instructions": [
+      "Preheat oven to 400°F (200°C). Scrub Russet Potato thoroughly, prick several times with a fork.",
+      "Bake potato directly on the oven rack (or on a baking sheet) for 45-60 minutes, or until tender when pierced with a fork. (Alternatively, microwave potato for 5-8 minutes until tender).",
+      "While potato is baking, heat Canned Beef Chili in a saucepan over medium heat until hot, stirring occasionally. Or heat in microwave.",
+      "Once potato is cooked, carefully slice it open lengthwise. Fluff the inside with a fork.",
+      "Spoon a generous amount of hot chili over the baked potato.",
+      "Sprinkle shredded Cheddar Cheese on top of the chili.",
+      "Add a dollop of Sour Cream and garnish with chopped Green Onion.",
+      "Season with Black Pepper to taste.",
+      "Serve immediately."
+    ]
+  },
+  {
+    "dish_name": "Tuna Noodle Casserole",
+    "cuisine_type": "American",
+    "calories": 550,
+    "macros": {
+      "protein_g": 25,
+      "carbs_g": 55,
+      "fat_g": 25
+    },
+    "ingredients": [
+      "Egg Noodles",
+      "Canned Tuna",
+      "Cream of Mushroom Soup",
+      "Milk",
+      "Frozen Peas",
+      "Breadcrumbs",
+      "Cheddar Cheese",
+      "Butter",
+      "Black Pepper"
+    ],
+    "cost": "$",
+    "healthy_flag": false,
+    "cooking_instructions": [
+      "Preheat oven to 375°F (190°C). Lightly grease a baking dish.",
+      "Cook Egg Noodles according to package directions until al dente. Drain well.",
+      "In a large bowl, combine the cooked noodles, drained Canned Tuna, Cream of Mushroom Soup, Milk, and Frozen Peas. Stir gently to mix everything.",
+      "Season with Black Pepper to taste.",
+      "Pour the mixture into the prepared baking dish.",
+      "In a small bowl, combine Breadcrumbs with shredded Cheddar Cheese. If desired, melt a little Butter and toss with the breadcrumb mixture for extra crispiness (or dot the top with small pieces of Butter).",
+      "Sprinkle the breadcrumb and cheese mixture evenly over the casserole.",
+      "Bake for 20-25 minutes, or until the casserole is bubbly and the topping is golden brown and crispy.",
+      "Let it cool for a few minutes before serving."
+    ]
+  },
+  {
+    "dish_name": "Pancakes with Maple Syrup and Berries",
+    "cuisine_type": "American",
+    "calories": 480,
+    "macros": {
+      "protein_g": 10,
+      "carbs_g": 85,
+      "fat_g": 10
+    },
+    "ingredients": [
+      "All-Purpose Flour",
+      "Milk",
+      "Egg",
+      "Sugar",
+      "Baking Powder",
+      "Butter",
+      "Maple Syrup",
+      "Mixed Berries",
+      "Vegetable Oil"
+    ],
+    "cost": "$",
+    "healthy_flag": false,
+    "cooking_instructions": [
+      "In a large bowl, whisk together All-Purpose Flour, Sugar, and Baking Powder.",
+      "In a separate medium bowl, whisk together Milk, Egg, and melted Butter.",
+      "Pour the wet ingredients into the dry ingredients. Whisk until just combined (a few lumps are okay; do not overmix).",
+      "Heat a lightly oiled (with Vegetable Oil or a little butter) griddle or non-stick frying pan over medium heat.",
+      "For each pancake, pour about 1/4 cup of batter onto the hot griddle.",
+      "Cook for 2-3 minutes per side, or until bubbles appear on the surface of the pancake and the edges look set, then flip and cook the other side until golden brown.",
+      "Repeat with remaining batter, adding more oil to the griddle as needed.",
+      "Serve warm pancakes topped with Maple Syrup and fresh Mixed Berries."
+    ]
+  },
+  {
+    "dish_name": "BBQ Pulled Pork Sandwich",
+    "cuisine_type": "American",
+    "calories": 620,
+    "macros": {
+      "protein_g": 30,
+      "carbs_g": 65,
+      "fat_g": 28
+    },
+    "ingredients": [
+      "Pork Shoulder",
+      "BBQ Sauce",
+      "Hamburger Buns",
+      "Coleslaw Mix",
+      "Mayonnaise",
+      "Apple Cider Vinegar",
+      "Sugar",
+      "Black Pepper"
+    ],
+    "cost": "$$",
+    "healthy_flag": false,
+    "cooking_instructions": [
+      "Cook Pork Shoulder until very tender and easily shredded. This can be done in a slow cooker (on low for 6-8 hours or high for 3-4 hours with some BBQ sauce or broth), or roasted in an oven at a low temperature for several hours.",
+      "Once pork is cooked, remove it from the cooking liquid and let it cool slightly. Then, shred the pork using two forks.",
+      "In a bowl, toss the shredded pork with your desired amount of BBQ Sauce until evenly coated.",
+      "Prepare coleslaw: In a separate bowl, combine Coleslaw Mix, Mayonnaise, Apple Cider Vinegar, and a pinch of Sugar. Season with Black Pepper. Mix well.",
+      "Toast Hamburger Buns if desired.",
+      "Assemble sandwiches: Spoon a generous amount of BBQ pulled pork onto the bottom half of each bun.",
+      "Top the pork with a scoop of coleslaw.",
+      "Place the top half of the bun on top and serve immediately."
+    ]
+  },
+  {
+    "dish_name": "Pad Thai ",
+    "cuisine_type": "Asian",
+    "calories": 580,
+    "macros": {
+      "protein_g": 30,
+      "carbs_g": 75,
+      "fat_g": 18
+    },
+    "ingredients": [
+      "Rice Noodles",
+      "Chicken Breast",
+      "Egg",
+      "Bean Sprouts",
+      "Green Onion",
+      "Unsalted Peanuts",
+      "Soy Sauce",
+      "Fish Sauce",
+      "Lime Juice",
+      "Brown Sugar",
+      "Garlic",
+      "Chili Flakes",
+      "Vegetable Oil"
+    ],
+    "cost": "$$",
+    "healthy_flag": true,
+    "cooking_instructions": [
+      "Cook Rice Noodles according to package directions. Drain, rinse with cold water to prevent sticking, and set aside.",
+      "Prepare Pad Thai sauce: In a small bowl, whisk together Fish Sauce, Soy Sauce, Lime Juice, and Brown Sugar until sugar is dissolved. Add Chili Flakes to taste.",
+      "Slice Chicken Breast into thin strips. Chop Green Onion. Mince Garlic. Roughly chop Unsalted Peanuts.",
+      "Heat Vegetable Oil in a large wok or skillet over medium-high heat. Add chicken and stir-fry until cooked through. Push chicken to one side of the wok.",
+      "Crack Egg into the empty side of the wok. Scramble the egg until cooked, then mix it with the chicken.",
+      "Add minced Garlic and stir-fry for 30 seconds until fragrant.",
+      "Add the cooked rice noodles and the Pad Thai sauce to the wok. Toss everything together quickly to coat the noodles and heat through.",
+      "Add most of the Bean Sprouts and Green Onion, reserving some for garnish. Toss for another minute until bean sprouts are slightly wilted but still crisp.",
+      "Serve immediately, garnished with chopped peanuts, remaining bean sprouts, green onion, and a lime wedge on the side."
+    ]
+  },
+  {
+    "dish_name": "Pesto Pasta with Cherry Tomatoes",
+    "cuisine_type": "Italian",
+    "calories": 550,
+    "macros": {
+      "protein_g": 18,
+      "carbs_g": 65,
+      "fat_g": 25
+    },
+    "ingredients": [
+      "Penne Pasta",
+      "Basil Pesto",
+      "Cherry Tomatoes",
+      "Parmesan Cheese",
+      "Olive Oil",
+      "Black Pepper"
+    ],
+    "cost": "$$",
+    "healthy_flag": false,
+    "cooking_instructions": [
+      "Cook Penne Pasta according to package directions until al dente. Reserve about 1/2 cup of the pasta cooking water before draining.",
+      "While pasta is cooking, halve or quarter Cherry Tomatoes.",
+      "In a large bowl, combine the drained hot pasta with Basil Pesto. Stir well to coat the pasta evenly. If the pesto is too thick, add a splash of the reserved pasta water to reach desired consistency.",
+      "Add the Cherry Tomatoes to the pasta and pesto mixture. Toss gently.",
+      "Stir in grated Parmesan Cheese.",
+      "Drizzle with a little extra Olive Oil if desired, and season with Black Pepper to taste.",
+      "Serve immediately, with additional Parmesan cheese for topping if you like."
+    ]
+  },
+  {
+    "dish_name": "Shakshuka",
+    "cuisine_type": "Mediterranean",
+    "calories": 400,
+    "macros": {
+      "protein_g": 20,
+      "carbs_g": 25,
+      "fat_g": 25
+    },
+    "ingredients": [
+      "Eggs",
+      "Canned Diced Tomatoes",
+      "Onion",
+      "Red Bell Pepper",
+      "Garlic",
+      "Olive Oil",
+      "Paprika",
+      "Ground Cumin",
+      "Chili Powder",
+      "Fresh Parsley",
+      "Black Pepper",
+      "Feta Cheese"
+    ],
+    "cost": "$$",
+    "healthy_flag": true,
+    "cooking_instructions": [
+      "Heat Olive Oil in a large skillet or pan with a lid over medium heat. Add chopped Onion and Red Bell Pepper. Cook, stirring occasionally, until softened, about 5-7 minutes.",
+      "Add minced Garlic, Paprika, Ground Cumin, and Chili Powder (to taste). Cook for another minute, stirring, until fragrant.",
+      "Pour in Canned Diced Tomatoes (undrained). Break up any large pieces of tomato with a spoon. Season with Black Pepper (and salt, if desired).",
+      "Bring the sauce to a simmer, then reduce heat to low and let it cook for 10-15 minutes, or until the sauce has thickened slightly.",
+      "Using the back of a spoon, make small wells in the tomato sauce for the eggs.",
+      "Carefully crack an Egg into each well.",
+      "Cover the skillet and cook for 5-8 minutes, or until the egg whites are set but the yolks are still runny (or cooked to your preference).",
+      "Remove from heat. Sprinkle with crumbled Feta Cheese and chopped Fresh Parsley.",
+      "Serve immediately, often with crusty bread for dipping into the sauce and yolks."
+    ]
+  },
+  {
+    "dish_name": "Chicken Tikka Masala",
+    "cuisine_type": "Indian",
+    "calories": 600,
+    "macros": {
+      "protein_g": 40,
+      "carbs_g": 55,
+      "fat_g": 28
+    },
+    "ingredients": [
+      "Chicken Breast",
+      "Plain Yogurt",
+      "Ginger",
+      "Garlic",
+      "Turmeric Powder",
+      "Garam Masala",
+      "Ground Cumin",
+      "Ground Coriander",
+      "Chili Powder",
+      "Canned Crushed Tomatoes",
+      "Onion",
+      "Heavy Cream",
+      "Vegetable Oil",
+      "Fresh Cilantro",
+      "White Rice"
+    ],
+    "cost": "$$",
+    "healthy_flag": false,
+    "cooking_instructions": [
+      "Cook White Rice according to package directions. Set aside.",
+      "Cut Chicken Breast into bite-sized pieces. In a bowl, combine chicken with Plain Yogurt, minced Ginger, minced Garlic, Turmeric Powder, Garam Masala, Ground Cumin, Ground Coriander, and Chili Powder. Mix well to coat. Marinate for at least 30 minutes (or longer in the fridge).",
+      "Heat Vegetable Oil in a large skillet or pot over medium-high heat. Add chopped Onion and cook until softened and lightly golden.",
+      "Add the marinated chicken to the skillet. Cook, stirring occasionally, until chicken is browned on all sides and cooked through.",
+      "Stir in Canned Crushed Tomatoes. Bring to a simmer, then reduce heat and cook for 10-15 minutes, allowing flavors to meld.",
+      "Stir in Heavy Cream. Simmer gently for another 5 minutes until the sauce is heated through and slightly thickened. Do not boil vigorously after adding cream.",
+      "Taste and adjust seasonings if necessary.",
+      "Garnish with Fresh Cilantro and serve hot with cooked white rice."
+    ]
+  },
+  {
+    "dish_name": "Chana Masala",
+    "cuisine_type": "Indian",
+    "calories": 480,
+    "macros": {
+      "protein_g": 15,
+      "carbs_g": 75,
+      "fat_g": 12
+    },
+    "ingredients": [
+      "Canned Chickpeas",
+      "Onion",
+      "Canned Diced Tomatoes",
+      "Ginger",
+      "Garlic",
+      "Turmeric Powder",
+      "Ground Coriander",
+      "Ground Cumin",
+      "Garam Masala",
+      "Chili Powder",
+      "Vegetable Oil",
+      "Fresh Cilantro",
+      "Lemon Juice",
+      "White Rice"
+    ],
+    "cost": "$",
+    "healthy_flag": true,
+    "cooking_instructions": [
+      "Cook White Rice according to package directions. Set aside.",
+      "Heat Vegetable Oil in a large pan or pot over medium heat. Add chopped Onion and cook until golden brown.",
+      "Add minced Ginger and Garlic. Sauté for a minute until fragrant.",
+      "Stir in Turmeric Powder, Ground Coriander, Ground Cumin, Chili Powder, and a pinch of salt. Cook for 1 minute, stirring constantly.",
+      "Add Canned Diced Tomatoes (undrained). Cook, stirring occasionally, until tomatoes break down and the oil starts to separate from the mixture, about 5-7 minutes.",
+      "Drain and rinse Canned Chickpeas. Add them to the pot.",
+      "Add about 1/2 cup of water or vegetable broth. Bring to a simmer, then reduce heat, cover, and cook for 10-15 minutes, allowing flavors to meld. Mash some chickpeas against the side of the pot to thicken the sauce if desired.",
+      "Stir in Garam Masala and fresh Lemon Juice.",
+      "Garnish with chopped Fresh Cilantro.",
+      "Serve hot with cooked white rice."
+    ]
+  },
+  {
+    "dish_name": "Chicken Fajitas",
+    "cuisine_type": "Mexican",
+    "calories": 550,
+    "macros": {
+      "protein_g": 35,
+      "carbs_g": 50,
+      "fat_g": 22
+    },
+    "ingredients": [
+      "Chicken Breast",
+      "Bell Peppers",
+      "Onion",
+      "Flour Tortillas",
+      "Lime Juice",
+      "Chili Powder",
+      "Ground Cumin",
+      "Paprika",
+      "Garlic Powder",
+      "Olive Oil",
+      "Salsa",
+      "Sour Cream",
+      "Shredded Cheddar Cheese"
+    ],
+    "cost": "$$",
+    "healthy_flag": true,
+    "cooking_instructions": [
+      "Slice Chicken Breast, Bell Peppers (various colors if desired), and Onion into thin strips.",
+      "In a bowl, combine chicken strips with Lime Juice, Chili Powder, Ground Cumin, Paprika, and Garlic Powder. Toss to coat evenly. Let marinate for at least 15 minutes.",
+      "Heat Olive Oil in a large skillet or cast-iron pan over medium-high heat.",
+      "Add the marinated chicken strips to the hot skillet. Cook, stirring occasionally, until chicken is browned and cooked through.",
+      "Add the sliced bell peppers and onion to the skillet with the chicken. Continue to cook, stirring frequently, until vegetables are tender-crisp (about 5-7 minutes).",
+      "Warm Flour Tortillas according to package instructions (e.g., microwave, oven, or dry skillet).",
+      "Serve the sizzling chicken and vegetable mixture directly from the skillet, alongside warm tortillas.",
+      "Offer Salsa, Sour Cream, and Shredded Cheddar Cheese as toppings for everyone to assemble their own fajitas."
+    ]
+  },
+  {
+    "dish_name": "Beef Burrito Bowl",
+    "cuisine_type": "Mexican",
+    "calories": 620,
+    "macros": {
+      "protein_g": 35,
+      "carbs_g": 65,
+      "fat_g": 25
+    },
+    "ingredients": [
+      "Ground Beef",
+      "Brown Rice",
+      "Canned Black Beans",
+      "Corn",
+      "Lettuce",
+      "Diced Tomatoes",
+      "Salsa",
+      "Avocado",
+      "Lime Juice",
+      "Chili Powder",
+      "Ground Cumin",
+      "Onion Powder",
+      "Garlic Powder",
+      "Olive Oil"
+    ],
+    "cost": "$$",
+    "healthy_flag": true,
+    "cooking_instructions": [
+      "Cook Brown Rice according to package directions.",
+      "Heat Olive Oil in a skillet over medium heat. Add Ground Beef and cook, breaking it apart, until browned. Drain off excess fat.",
+      "Stir in Chili Powder, Ground Cumin, Onion Powder, and Garlic Powder. Cook for another 1-2 minutes to toast spices. Add a splash of water if needed to create a slight sauce.",
+      "Prepare toppings: Rinse and drain Canned Black Beans. Thaw or cook Corn if frozen/fresh. Shred Lettuce. Dice Tomatoes. Slice or dice Avocado and toss with a little Lime Juice to prevent browning.",
+      "Assemble burrito bowls: Start with a base of cooked brown rice in each bowl.",
+      "Top the rice with a portion of the seasoned ground beef.",
+      "Arrange black beans, corn, lettuce, and diced tomatoes around or on top of the beef.",
+      "Add avocado slices/dices.",
+      "Serve with Salsa and an extra wedge of lime on the side."
+    ]
+  },
+  {
+    "dish_name": "Chicken Katsu Curry",
+    "cuisine_type": "Japanese",
+    "calories": 780,
+    "macros": {
+      "protein_g": 38,
+      "carbs_g": 90,
+      "fat_g": 30
+    },
+    "ingredients": [
+      "Chicken Breast",
+      "Panko Breadcrumbs",
+      "Egg",
+      "All-Purpose Flour",
+      "Japanese Curry Roux Block",
+      "Potatoes",
+      "Carrots",
+      "Onion",
+      "Vegetable Oil",
+      "White Rice"
+    ],
+    "cost": "$$",
+    "healthy_flag": false,
+    "cooking_instructions": [
+      "Cook White Rice according to package directions.",
+      "Prepare chicken katsu: Pound Chicken Breast to an even thickness (about 1/2 inch). Season with salt and pepper.",
+      "Set up a breading station: one plate with All-Purpose Flour, one shallow bowl with beaten Egg, and one plate with Panko Breadcrumbs.",
+      "Dredge each chicken breast first in flour, then dip in egg (letting excess drip off), and finally coat thoroughly with panko breadcrumbs, pressing gently to adhere.",
+      "Heat Vegetable Oil (about 1/2 inch deep) in a large skillet over medium heat. Fry chicken katsu for 4-5 minutes per side, until golden brown and cooked through. Remove and drain on a wire rack. Slice into strips.",
+      "Prepare Japanese curry: Chop Onion, dice Potatoes and Carrots. Heat a little oil in a pot, sauté onion until softened. Add carrots and potatoes, and cook for a few minutes.",
+      "Add water according to curry roux package directions and bring to a boil. Reduce heat and simmer until vegetables are tender (about 15 minutes).",
+      "Remove pot from heat. Break Japanese Curry Roux Block into pieces and add to the pot. Stir until roux is completely dissolved. Return to low heat and simmer for another 5-10 minutes, stirring, until curry thickens.",
+      "To serve, place a portion of rice on a plate, arrange sliced chicken katsu next to it, and ladle a generous amount of curry sauce over the chicken and rice."
+    ]
+  },
+  {
+    "dish_name": "Tuna Mayo Onigiri",
+    "cuisine_type": "Japanese",
+    "calories": 440,
+    "macros": {
+      "protein_g": 20,
+      "carbs_g": 70,
+      "fat_g": 8
+    },
+    "ingredients": [
+      "Sushi Rice",
+      "Nori Sheets",
+      "Canned Tuna",
+      "Mayonnaise",
+      "Black Pepper",
+      "Soy Sauce"
+    ],
+    "cost": "$",
+    "healthy_flag": true,
+    "cooking_instructions": [
+      "Cook Sushi Rice according to package directions. Once cooked, let it cool slightly until it's warm enough to handle but not hot.",
+      "Prepare tuna mayo filling: Drain Canned Tuna thoroughly. In a small bowl, mix the tuna with Mayonnaise. Season with a dash of Soy Sauce and Black Pepper to taste.",
+      "Prepare your hands: Wet your hands with water and sprinkle a little salt on them (this prevents rice from sticking and seasons it).",
+      "Take a portion of warm sushi rice (about 1/2 to 3/4 cup) into one hand. Flatten it slightly and make a small indent in the center.",
+      "Place a spoonful of the tuna mayo filling into the indent.",
+      "Take a smaller portion of rice and cover the filling, or gently bring the edges of the bottom rice layer up and around the filling.",
+      "Shape the rice into a triangle, ball, or cylinder, pressing firmly but gently to ensure it holds together.",
+      "Cut Nori Sheets into strips. Wrap a strip of nori around each onigiri.",
+      "Serve immediately or wrap individually in plastic wrap for later."
+    ]
+  },
+  {
+    "dish_name": "Oven-Baked Fish and Chips",
+    "cuisine_type": "British",
+    "calories": 600,
+    "macros": {
+      "protein_g": 40,
+      "carbs_g": 70,
+      "fat_g": 18
+    },
+    "ingredients": [
+      "Cod Fillets",
+      "Potatoes",
+      "All-Purpose Flour",
+      "Egg",
+      "Panko Breadcrumbs",
+      "Olive Oil",
+      "Lemon",
+      "Black Pepper",
+      "Dried Parsley"
+    ],
+    "cost": "$$",
+    "healthy_flag": false,
+    "cooking_instructions": [
+      "Preheat oven to 425°F (220°C). Line a large baking sheet with parchment paper.",
+      "Prepare chips: Peel Potatoes (if desired) and cut into thick chip-style fries. Toss with 1-2 tablespoons of Olive Oil, Black Pepper, and a pinch of Dried Parsley. Spread in a single layer on one half of the baking sheet.",
+      "Bake chips for 15 minutes.",
+      "Prepare fish: Pat Cod Fillets dry. Season with salt and Black Pepper.",
+      "Set up a breading station: one plate with All-Purpose Flour, one shallow bowl with beaten Egg, and one plate with Panko Breadcrumbs mixed with a pinch of Dried Parsley.",
+      "Dredge each cod fillet first in flour, then dip in egg, and finally coat thoroughly with panko breadcrumbs.",
+      "After chips have baked for 15 minutes, remove baking sheet from oven. Place breaded cod fillets on the other half of the baking sheet. Drizzle or spray fish lightly with Olive Oil.",
+      "Return baking sheet to oven and bake for another 15-20 minutes, flipping fish and chips halfway through, until chips are golden and crispy, and fish is cooked through and golden.",
+      "Serve immediately with Lemon wedges on the side."
+    ]
+  },
+  {
+    "dish_name": "Bangers and Mash with Onion Gravy",
+    "cuisine_type": "British",
+    "calories": 720,
+    "macros": {
+      "protein_g": 28,
+      "carbs_g": 65,
+      "fat_g": 40
+    },
+    "ingredients": [
+      "Pork Sausages",
+      "Potatoes",
+      "Milk",
+      "Butter",
+      "Onion",
+      "Beef Broth",
+      "All-Purpose Flour",
+      "Vegetable Oil",
+      "Black Pepper",
+      "Dried Thyme"
+    ],
+    "cost": "$$",
+    "healthy_flag": false,
+    "cooking_instructions": [
+      "Prepare mashed potatoes: Peel and boil Potatoes until very tender. Drain well. Mash with Milk and a portion of Butter until smooth and creamy. Season with Black Pepper.",
+      "Cook Pork Sausages (bangers): Heat a little Vegetable Oil in a skillet over medium heat. Add sausages and cook, turning occasionally, until browned on all sides and cooked through (about 15-20 minutes). Or bake in oven.",
+      "Prepare onion gravy: While sausages cook (or using the same pan after removing sausages), add thinly sliced Onion to the pan (add more oil or a knob of butter if needed). Cook over medium-low heat, stirring occasionally, until onions are softened and caramelized (10-15 minutes).",
+      "Sprinkle All-Purpose Flour over the onions and cook for 1 minute, stirring. Gradually whisk in Beef Broth until smooth.",
+      "Add Dried Thyme and a pinch of Black Pepper. Bring to a simmer and cook, stirring, until gravy has thickened to desired consistency.",
+      "To serve, place a generous scoop of mashed potatoes on each plate. Top with cooked sausages and ladle onion gravy over everything."
+    ]
+  },
+  {
+    "dish_name": "Caprese Salad",
+    "cuisine_type": "Italian",
+    "calories": 350,
+    "macros": {
+      "protein_g": 18,
+      "carbs_g": 15,
+      "fat_g": 25
+    },
+    "ingredients": [
+      "Fresh Mozzarella",
+      "Tomatoes",
+      "Fresh Basil",
+      "Extra Virgin Olive Oil",
+      "Balsamic Glaze",
+      "Black Pepper"
+    ],
+    "cost": "$$",
+    "healthy_flag": true,
+    "cooking_instructions": [
+      "Slice ripe Tomatoes and Fresh Mozzarella into rounds of about 1/4-inch thickness.",
+      "Arrange alternating slices of tomato and mozzarella on a platter or individual plates.",
+      "Tuck whole Fresh Basil leaves between the tomato and mozzarella slices, or scatter them over the top.",
+      "Drizzle generously with high-quality Extra Virgin Olive Oil.",
+      "Drizzle with Balsamic Glaze (use sparingly if it's very concentrated, or more generously if it's a thinner glaze).",
+      "Season with freshly ground Black Pepper (and a pinch of sea salt, if desired).",
+      "Serve immediately at room temperature for best flavor."
+    ]
+  },
+  {
+    "dish_name": "Falafel Pita Pockets",
+    "cuisine_type": "Mediterranean",
+    "calories": 520,
+    "macros": {
+      "protein_g": 18,
+      "carbs_g": 70,
+      "fat_g": 20
+    },
+    "ingredients": [
+      "Canned Chickpeas",
+      "Onion",
+      "Garlic",
+      "Fresh Parsley",
+      "Fresh Cilantro",
+      "Ground Cumin",
+      "Ground Coriander",
+      "All-Purpose Flour",
+      "Baking Powder",
+      "Olive Oil",
+      "Pita Bread",
+      "Lettuce",
+      "Tomatoes",
+      "Cucumber",
+      "Tahini",
+      "Lemon Juice",
+      "Water",
+      "Black Pepper"
+    ],
+    "cost": "$$",
+    "healthy_flag": true,
+    "cooking_instructions": [
+      "Prepare falafel mixture: Drain and rinse Canned Chickpeas. In a food processor, combine chickpeas, roughly chopped Onion, Garlic cloves, Fresh Parsley, Fresh Cilantro, Ground Cumin, Ground Coriander, All-Purpose Flour, Baking Powder, salt, and Black Pepper. Pulse until the mixture is finely minced but not pureed (it should hold together when squeezed).",
+      "Chill falafel mixture for at least 30 minutes (this helps it hold its shape).",
+      "Form mixture into small balls or patties (about 1-1.5 inches).",
+      "Cook falafel: Heat Olive Oil (about 1/2 inch deep for frying, or less for pan-frying) in a skillet over medium heat. Fry falafel in batches for 3-4 minutes per side, until golden brown and crispy. Alternatively, bake at 400°F (200°C) for 20-25 minutes, flipping halfway.",
+      "Prepare tahini sauce: In a small bowl, whisk together Tahini, Lemon Juice, minced Garlic (if using), and a pinch of salt. Gradually whisk in cold Water until the sauce reaches a smooth, pourable consistency. Season with Black Pepper.",
+      "Prepare vegetables: Shred Lettuce, dice Tomatoes and Cucumber.",
+      "Warm Pita Bread slightly. Cut pitas in half to form pockets (or use whole pitas that open easily).",
+      "Assemble: Stuff pita pockets with a few falafel balls, some shredded lettuce, diced tomatoes, and cucumber. Drizzle generously with tahini sauce."
+    ]
+  }
+]
